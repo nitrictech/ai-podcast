@@ -1,8 +1,8 @@
 <p align="center"><a href="https://nitric.io" target="_blank"><img src="https://raw.githubusercontent.com/nitrictech/nitric/main/docs/assets/nitric-logo.svg" height="120"></a></p>
 
-# Nitric Python Starter Template
+# Nitric AI Podcast Generator
 
-This is a Python starter template for Nitric projects. It includes a simple HTTP function that returns a JSON response.
+This is the AI Podcast generator app from the [Build AI Generated Podcasts](https://www.youtube.com/watch?v=4aLqP0KHCu0&list=PL45B6z4_ZDhQTLlzvUjROk2mB_GRzgyhs&index=2) series on YouTube.
 
 ## About Nitric
 
