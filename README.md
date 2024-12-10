@@ -4,6 +4,13 @@
 
 This is the AI Podcast generator app from the [Build AI Generated Podcasts](https://www.youtube.com/watch?v=4aLqP0KHCu0&list=PL45B6z4_ZDhQTLlzvUjROk2mB_GRzgyhs&index=2) series on YouTube.
 
+## Additional Guides
+
+You can also follow the guide for building the app with Python in the following parts:
+
+- [AI Podcast Part 1](https://nitric.io/docs/guides/python/ai-podcast-part-1)
+- If you want to use an LLM to generate the text in the flow, follow [AI Podcast Part 2](https://nitric.io/docs/guides/python/ai-podcast-part-2)
+
 ## About Nitric
 
 This is a [Nitric](https://nitric.io) Python project, but Nitric is a framework for rapid development of cloud-native and serverless applications in many languages.
